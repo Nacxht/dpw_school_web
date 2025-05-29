@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+/* header_navbar */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2196f3;
+  color: white;
+  padding: 20px 40px;
+  border-bottom: black 2px solid;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.item a {
+  text-decoration: none;
+  color: white;
+}
+
+.item {
+  font-size: 17px;
+  display: flex;
+  gap: 20px;
+}
+
+.login {
+  background-color: #0a6ebd;
+  padding: 5px 10px;
+  font-size: 13px;
+  border-radius: 5px;
+}
+
+.login a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+/* content */
+
+.judul {
+  background-color: #2196f3;
+  padding: 20px;
+  text-align: center;
+}
+
+.judul h2 {
+  color: black;
+  background-color: grey;
+  padding: 20px 20px;
+  font-size: 30px;
+}
+
+/* content */
+
+.content {
+  padding: 30px;
+  text-align: center;
+}
+
+.visi h3 {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 0 20px 0;
+}
+
+.visi p {
+  font-size: 15px;
+  margin-bottom: 20px;
+  line-height: 1.6rem;
+}
+
+.misi h3 {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 20px 0 20px 0;
+}
+
+.misi {
+  text-align: center;
+}
+.misi ol {
+  font-size: 18px;
+  line-height: 1.6rem;
+  display: inline-block;
+  text-align: left;
+}
+
+/* footer */
+
+.footer {
+  background: #2196f3;
+  color: white;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  border-bottom: solid black 2px;
+}
+
+.footer-kiri h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.medsos {
+  display: flex;
+  gap: 10px;
+}
+
+.medsos svg {
+  width: 50px;
+  height: 50px;
+  color: black;
+}
+
+.footer-bawah {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 5px;
+}

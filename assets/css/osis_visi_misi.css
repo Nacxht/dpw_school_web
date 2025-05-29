@@ -1,0 +1,57 @@
+.header,
+.content,
+.footer {
+  text-align: center;
+  font-size: smaller;
+}
+
+.header {
+  background-color: aqua;
+  height: 65px;
+  text-align: left;
+  font-size: x-large;
+}
+
+.logo-judul {
+  display: flex;
+  align-items: center;
+}
+
+.logo-judul img {
+  margin-right: 15px;
+}
+
+.logo-judul h1 {
+  margin: 0;
+  font-size: 24px;
+  color: black;
+}
+
+.content h3 {
+  color: rgb(68, 69, 69);
+}
+
+.content a {
+  color: rgb(122, 119, 119);
+}
+
+.content p {
+  color: rgb(122, 119, 119);
+  text-align: left;
+}
+
+.footer {
+  background-color: cyan;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-weight: bold;
+}

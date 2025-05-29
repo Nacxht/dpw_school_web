@@ -1,0 +1,70 @@
+.header,
+.content,
+.footer {
+  text-align: center;
+  font-size: smaller;
+}
+
+.header {
+  background-color: aqua;
+  height: 65px;
+  text-align: left;
+  font-size: x-large;
+}
+
+.logo-judul {
+  display: flex;
+  align-items: center;
+}
+
+.logo-judul img {
+  margin-right: 15px;
+}
+
+.logo-judul h1 {
+  margin: 0;
+  font-size: 24px;
+  color: black;
+}
+
+.ekstra-box {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin: 10px auto;
+  width: 200px;
+  border-radius: 10px;
+  background: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* bisa ditambah efek transparan layer putih */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.ekstra-box h3 {
+  margin: 8px 0 4px;
+  font-size: 18px;
+}
+
+.ekstra-box p {
+  font-size: 14px;
+  color: #555;
+}
+
+.footer {
+  background-color: cyan;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-weight: bold;
+}

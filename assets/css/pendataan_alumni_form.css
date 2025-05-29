@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+/* header_navbar */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2196f3;
+  color: white;
+  padding: 20px 40px;
+  border-bottom: black 2px solid;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.item a {
+  text-decoration: none;
+  color: white;
+}
+
+.item {
+  font-size: 17px;
+  display: flex;
+  gap: 20px;
+}
+
+.login {
+  background-color: #0a6ebd;
+  padding: 5px 10px;
+  font-size: 13px;
+  border-radius: 5px;
+}
+
+.login a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+/* container */
+
+.container {
+  padding: 40px;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #bbfbff;
+  border: solid black 1px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.judul {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form .label-pendataan {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.isi-form {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.isi-form label {
+  font-size: 14px;
+  margin-bottom: 0.5rem;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="file"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: solid #acc 1px;
+}
+
+.submit {
+  background-color: #2196f3;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* footer */
+
+.footer {
+  background: #2196f3;
+  color: white;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  border-bottom: solid black 2px;
+}
+
+.footer-kiri h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.medsos {
+  display: flex;
+  gap: 10px;
+}
+
+.medsos svg {
+  width: 50px;
+  height: 50px;
+  color: black;
+}
+
+.footer-bawah {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 5px;
+}
