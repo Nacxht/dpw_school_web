@@ -20,7 +20,7 @@
 }
 
 .konten-header {
-  font-family: 'Lucida Console', Monaco, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   color: black;
 }
 
@@ -50,7 +50,7 @@ nav a:hover {
 }
 
 /* bagian utama */
-.utama{
+.utama {
   background-image: url("gambar gif/background\ gunung.gif");
   background-size: cover;
   background-position: top;
@@ -59,10 +59,10 @@ nav a:hover {
   width: 100%;
 }
 
-.judul-utama h1{
+.judul-utama h1 {
   margin-top: 20px;
   margin-left: 20px;
-  font-family: 'Lucida Console', Monaco, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   font-size: 40px;
   color: white;
   text-shadow: 2px 2px 5px black;
@@ -73,7 +73,6 @@ nav a:hover {
   display: flex;
   gap: 20px;
   padding: 20px;
-  
 }
 
 fieldset {
@@ -90,11 +89,16 @@ legend {
   padding: 0 10px;
 }
 
-.peminjaman{
-  background-color: rgba(255, 255, 255, 0.8); /* transparansi untuk latar belakang gambar */
+.peminjaman {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* transparansi untuk latar belakang gambar */
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .form-group {
@@ -104,7 +108,7 @@ legend {
 }
 
 .form-group label {
-  flex: 0 0 120px;  /* mengatur lebar label */
+  flex: 0 0 120px; /* mengatur lebar label */
   margin-right: 10px;
   font-weight: 500;
 }
@@ -132,22 +136,26 @@ legend {
   background-color: #0056b3;
 }
 
-.histori-peminjaman{
-  background-color: rgba(255, 255, 255, 0.8); /* transparansi untuk latar belakang gambar */
+.histori-peminjaman {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* transparansi untuk latar belakang gambar */
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.histori-peminjaman label{
+.histori-peminjaman label {
   font-weight: 500;
   margin: 0px 105px 0px 0px;
 }
 
-
 /* bagian footer */
 .footer {
-  font-family: 'Lucida Console', Monaco, monospace;
+  font-family: "Lucida Console", Monaco, monospace;
   font-size: 25px;
   background-color: blue;
   height: 100px;
@@ -176,7 +184,7 @@ legend {
   font-weight: bold;
 }
 
-.social img{
+.social img {
   width: 100%;
   height: 50px;
 }
