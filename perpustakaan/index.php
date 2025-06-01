@@ -14,10 +14,12 @@
     <div class="gambar">
       <img src="../assets/images/perpustakaan/gambar/logo smks krian.png" alt="logo sekolah" />
     </div>
+
     <div class="konten-header">
       <div class="judul">
         <h1>PERPUSTAKAAN SMK KRIAN 1</h1>
       </div>
+
       <nav>
         <a href="index.php">Pengumuman</a>
         <a href="profil_siswa.php">Profil Siswa</a>
@@ -26,6 +28,7 @@
         <a href="peminjaman_denda.php">Peminjaman dan Denda</a>
       </nav>
     </div>
+
     <div class="gambar-kiri">
       <img src="../assets/images/perpustakaan/gambar gif/naruto vs lee.gif" alt="gambar gif" />
     </div>

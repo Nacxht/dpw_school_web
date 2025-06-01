@@ -12,13 +12,15 @@
   <!-- navbar website smk 1 krian -->
   <div class="header">
     <div class="logo">SMK 1 Krian</div>
+
     <div class="navbar">
       <div class="item">
-        <a href="index.html">Beranda</a>
+        <a href="visi-misi/index.php">Beranda</a>
         <a href="#">Visi &amp; Misi</a>
       </div>
+
       <div class="login">
-        <a href="#">login</a>
+        <a href="#">Login</a>
       </div>
     </div>
   </div>
@@ -73,7 +75,7 @@
         <p>Jurusan</p>
       </a>
 
-      <a href="#" class="fitur-website">
+      <a href="perpustakaan/index.php" class="fitur-website">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -86,7 +88,7 @@
         <p>Perpusatakaan</p>
       </a>
 
-      <a href="#" class="fitur-website">
+      <a href="osis/index.php" class="fitur-website">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="1024"
@@ -99,7 +101,7 @@
         <p>Osis &amp; Jajaran Pengurus</p>
       </a>
 
-      <a href="#" class="fitur-website">
+      <a href="pendataan-alumni/index.php" class="fitur-website">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="512"

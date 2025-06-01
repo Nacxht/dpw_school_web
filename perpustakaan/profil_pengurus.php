@@ -20,11 +20,11 @@
         <h1>PERPUSTAKAAN SMK KRIAN 1</h1>
       </div>
       <nav>
-        <a href="pengumuman.html">Pengumuman</a>
-        <a href="profilsiswa.html">Profil Siswa</a>
-        <a href="profilpengurus.html">Profil Pengurus</a>
-        <a href="pencarianbuku.html">Pencarian Buku</a>
-        <a href="peminjamandenda.html">Peminjaman dan Denda</a>
+        <a href="index.php">Pengumuman</a>
+        <a href="profil_siswa.php">Profil Siswa</a>
+        <a href="profil_pengurus.php">Profil Pengurus</a>
+        <a href="pencarian_buku.php">Pencarian Buku</a>
+        <a href="peminjaman_denda.php">Peminjaman dan Denda</a>
       </nav>
     </div>
     <div class="gambar-kiri">
