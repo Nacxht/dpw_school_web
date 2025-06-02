@@ -51,7 +51,7 @@ nav a:hover {
 
 /* bagian utama */
 .utama {
-  background-image: url("gambar gif/background\ gunung.gif");
+  background-image: url("../images/perpustakaan/gambar gif/background\ gunung.gif");
   background-size: cover;
   background-position: top;
   display: flex;
