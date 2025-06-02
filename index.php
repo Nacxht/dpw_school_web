@@ -15,12 +15,12 @@
 
     <div class="navbar">
       <div class="item">
-        <a href="visi-misi/index.php">Beranda</a>
-        <a href="#">Visi &amp; Misi</a>
+        <a href="index.php">Beranda</a>
+        <a href="visi-misi/index.php">Visi &amp; Misi</a>
       </div>
 
       <div class="login">
-        <a href="#">Login</a>
+        <a href="login.php">Login</a>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@
     <h2>Layanan SMK 1 Krian</h2>
 
     <div class="fitur">
-      <a href="#" class="fitur-website">
+      <a href="pendaftaran/index.php" class="fitur-website">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="512"

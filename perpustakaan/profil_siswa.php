@@ -22,7 +22,7 @@
         <a href="index.php">Pengumuman</a>
         <a href="profil_siswa.php">Profil Siswa</a>
         <a href="profil_pengurus.php">Profil Pengurus</a>
-        <a href="pencarian_buku.php">Pencarian Buku</a>
+        <a href="baca_buku.php">Baca Buku</a>
         <a href="peminjaman_denda.php">Peminjaman dan Denda</a>
       </nav>
     </div>
@@ -146,7 +146,7 @@
   <!-- bagian footer -->
   <div class="footer">
     <nav class="nav-footer">
-      <a href="#">BERANDA</a>
+      <a href="../index.php">BERANDA</a>
       <a href="#">TENTANG KAMI</a>
       <div class="social">
         <span>IKUTI KAMI JUGA DI</span>

@@ -15,8 +15,8 @@
       <p>SMK 1 KRIAN</p>
     </div>
     <div class="beranda">
-      <p><a href="#">BERANDA</a></p>
-      <p><a href="#">VISI&MISI</a></p>
+      <p><a href="../index.php">BERANDA</a></p>
+      <p><a href="../visi-misi/index.php">VISI&MISI</a></p>
     </div>
   </nav>
 

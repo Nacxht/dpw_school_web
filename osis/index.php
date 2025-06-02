@@ -25,7 +25,7 @@
     <p>Halo! Kami dari OSIS SMK KRIAN 1 yang terdiri dari 29 anggota. Diketuai oleh Ahmad Izzul Van Deandels dan wakil Syafrina Miku untuk kepengurusan 2025/2026. Kami mengambil nama kabinet GOLDENWAVE karena diharapkan kabinet ini menjadi gelombang ombak menuju era yang emas untuk SMK KRIAN 1 ini.</p>
   </div>
   <div class="footer">
-    <a href="">BERANDA</p>
+    <a href="../index.php">BERANDA</p>
   </div>
 </body>
 

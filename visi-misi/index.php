@@ -14,11 +14,11 @@
     <div class="logo">SMK 1 Krian</div>
     <div class="navbar">
       <div class="item">
-        <a href="index.html">Beranda</a>
-        <a href="#">Visi &amp; Misi</a>
+        <a href="../index.php">Beranda</a>
+        <a href="index.php">Visi &amp; Misi</a>
       </div>
       <div class="login">
-        <a href="#">login</a>
+        <a href="../login.php">login</a>
       </div>
     </div>
   </div>

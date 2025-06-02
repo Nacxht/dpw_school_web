@@ -14,11 +14,11 @@
     <div class="logo">SMK 1 Krian</div>
     <div class="navbar">
       <div class="item">
-        <a href="index.html">Beranda</a>
-        <a href="#">Visi &amp; Misi</a>
+        <a href="../index.php">Beranda</a>
+        <a href="../visi-misi/index.php">Visi &amp; Misi</a>
       </div>
       <div class="login">
-        <a href="#">login</a>
+        <a href="../login.php">login</a>
       </div>
     </div>
   </div>
@@ -31,7 +31,7 @@
 
   <div class="container">
     <div class="menu">
-      <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+      <a href="form.php"><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
           <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M402 168c-2.93 40.67-33.1 72-66 72s-63.12-31.32-66-72c-3-42.31 26.37-72 66-72s69 30.46 66 72" />
           <path fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32" d="M336 304c-65.17 0-127.84 32.37-143.54 95.41c-2.08 8.34 3.15 16.59 11.72 16.59h263.65c8.57 0 13.77-8.25 11.72-16.59C463.85 335.36 401.18 304 336 304Z" />
           <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M200 185.94c-2.34 32.48-26.72 58.06-53 58.06s-50.7-25.57-53-58.06C91.61 152.15 115.34 128 147 128s55.39 24.77 53 57.94" />
@@ -41,6 +41,7 @@
       </a>
     </div>
 
+    <!-- belum -->
     <div class="menu">
       <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
           <path fill="currentColor" fill-rule="evenodd" d="M20 4H4a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1M4 2a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h16a3 3 0 0 0 3-3V5a3 3 0 0 0-3-3zm2 5h2v2H6zm5 0a1 1 0 1 0 0 2h6a1 1 0 1 0 0-2zm-3 4H6v2h2zm2 1a1 1 0 0 1 1-1h6a1 1 0 1 1 0 2h-6a1 1 0 0 1-1-1m-2 3H6v2h2zm2 1a1 1 0 0 1 1-1h6a1 1 0 1 1 0 2h-6a1 1 0 0 1-1-1" clip-rule="evenodd" />
@@ -56,6 +57,7 @@
         <p>Ulasan</p>
       </a>
     </div>
+    <!--  -->
   </div>
 
   <!-- footer website -->

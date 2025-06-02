@@ -15,8 +15,8 @@
       <p>SMK 1 KRIAN</p>
     </div>
     <div class="beranda">
-      <p><a href="">BERANDA</a></p>
-      <p><a href="#">VISI&MISI</a></p>
+      <p><a href="../index.php">BERANDA</a></p>
+      <p><a href="../visi-misi/index.php">VISI&MISI</a></p>
     </div>
   </nav>
 
@@ -32,7 +32,7 @@
         BERSEKOLAH DI <br />
         SEKOLAH KITA
       </h3>
-      <h2><a href="2.Mengisi Data.html">ISI FORMULIR</a></h2>
+      <h2><a href="form.php">ISI FORMULIR</a></h2>
     </div>
     <div class="gambar">
       <img src="../assets/images/pendaftaran/manusia.jpg" alt="" />

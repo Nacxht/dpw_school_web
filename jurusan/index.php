@@ -22,8 +22,8 @@ $daftar_jurusan = $db->query($jurusan_query)->fetch_all(MYSQLI_ASSOC);
     </div>
     <div class="header-kanan">
       <ul>
-        <li><a href="beranda.html">Beranda</a></li>
-        <li><a href="visi&misi.html">Visi & Misi</a></li>
+        <li><a href="../index.php">Beranda</a></li>
+        <li><a href="../visi-misi/index.php">Visi & Misi</a></li>
       </ul>
     </div>
   </header>
