@@ -77,8 +77,8 @@
       <a href="#">TENTANG KAMI</a>
       <div class="social">
         <span>IKUTI KAMI JUGA DI</span>
-        <a href="https://www.youtube.com/@smkkrian1sidoarjo340" target="_blank"><img src="gambar/logo youtube.png" alt="YouTube" /></a>
-        <a href="https://www.instagram.com/smkkrian1/" target="_blank"><img src="gambar/logo ig.png" alt="Instagram" /></a>
+        <a href="https://www.youtube.com/@smkkrian1sidoarjo340" target="_blank"><img src="../assets/images/perpustakaan/gambar/logo youtube.png" alt="YouTube" /></a>
+        <a href="https://www.instagram.com/smkkrian1/" target="_blank"><img src="../assets/images/perpustakaan/gambar/logo ig.png" alt="Instagram" /></a>
       </div>
     </nav>
   </div>
